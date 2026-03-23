@@ -33,3 +33,5 @@ vless://e1c3b1b5-5d8f-4bce-a999-b442762dc245@64.188.106.96:443?security=reality&
 vless://834f0646-8b24-42a0-8203-e5145474113f@146.185.242.210:8443?security=reality&encryption=none&pbk=3MQ8keneMeXCznwXalfPuzwPM3bR7gIoA5Hvow2KKj0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate-test.x5.ru&sid=0123456789abcdef#%F0%9F%87%A9%F0%9F%87%AA+Germany+%5B*CIDR%5D+VK
 
 vless://6cabb434-f480-478a-9586-a5667167eeb1@cdn-ru-cf.barryvpn.com:8443?security=reality&encryption=none&pbk=3MQ8keneMeXCznwXalfPuzwPM3bR7gIoA5Hvow2KKj0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate-test.x5.ru#%F0%9F%87%B7%F0%9F%87%BA+RU+%7C+CIDR+%7C+720+%7C+%40ByeWhiteLists2
+
+vless://e928d85d-f223-0bb8-a1d2-a56e9fbd50e0@89.208.230.64:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=anti-vpn.ru#%F0%9F%87%AB%F0%9F%87%AE+Finland+%7C+%F0%9F%8C%90+%7C+%5BIPv6%5D+%5B*CIDR%5D+VK
