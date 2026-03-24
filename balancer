@@ -625,9 +625,9 @@
   ],
   "burstObservatory": {
     "pingConfig": {
-      "timeout": "10s",
-      "interval": "10m",
-      "sampling": 2,
+      "timeout": "5s",
+      "interval": "3m",
+      "sampling": 3,
       "destination": "http://www.gstatic.com/generate_204",
       "connectivity": ""
     },
